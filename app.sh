@@ -14,3 +14,4 @@ echo "Current date:"
 date
 
 echo "Application completed."
+echo "This is my second Jenkins GitHub build."
